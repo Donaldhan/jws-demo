@@ -1,0 +1,12 @@
+jws\service\Sum.class
+jws\service\MultiplyResponse.class
+jws\service\Multiply.class
+jws\service\impl\JwsIService.class
+jws\service\ObjectFactory.class
+jws\service\SumResponse.class
+jws\service\package-info.class
+jws\service\LoginResponse.class
+jws\boostrap\JwsClient.class
+jws\service\User.class
+jws\service\Login.class
+jws\service\impl\JwsServiceImplService.class

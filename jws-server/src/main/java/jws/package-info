@@ -1,0 +1,4 @@
+jws.service测试JAX-WS所用的WebService接口；
+SEI定义在jws.service包下;
+SIB定义在jws.service.impl包下;
+此项目的客户端测试项目为jws-cient项目。

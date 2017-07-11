@@ -1,0 +1,16 @@
+############################################################
+搭建sonatype nexus环境，将jws-common相比打包证Jar上传
+到sonatype，jws-client依赖于jws-common项目;
+<dependency>
+	<groupId>org.donald</groupId>
+	<artifactId>jws-common</artifactId>
+	<version>${jws.demo.version}</version>
+</dependency>
+
+#############################################################
+jws-demo下面有三个模块,用于测试JAX-WS：
+jws-server：WebService服务端
+jws-client：客户端
+jws-common：工具包
+##############################################################
+此项目为Jws_client与Jws_Server的集成，并抽出共同的工具类到jws-common项目。

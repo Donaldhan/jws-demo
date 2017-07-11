@@ -1,0 +1,3 @@
+jws.service测试JAX-WS所用的WebService接口；
+jws.service和jws.service.impl包为wsimport生成的
+SEI和SIB本地代理对象此项目要配合jws-server项目使用。
